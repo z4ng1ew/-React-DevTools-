@@ -1,0 +1,16 @@
+.log{
+width: 250px;
+border: solid;
+border-color: black;
+padding: 10px;
+
+top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);position: absolute;
+}
+.log__form{
+        
+        display: flex;
+        flex-direction: column;
+        
+}
